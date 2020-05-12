@@ -4,7 +4,7 @@ title: "POST TITLE"
 date: 2020-05-12 
 author: s10
 tags: test
-published: true
+visible: 0
 ---
 
 # This post is hidden by setting published variable to false
