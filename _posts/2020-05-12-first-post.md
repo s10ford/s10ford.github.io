@@ -3,7 +3,7 @@ layout: post
 title: "POST TITLE"
 date: 2020-05-12 
 author: s10
-categories: CATEGORY-1 CATEGORY-2
+tags: test
 published: true
 ---
 
