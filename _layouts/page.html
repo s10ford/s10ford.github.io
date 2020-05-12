@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% if post.visible== 1  %}
 
 <article class="page">
 
@@ -10,3 +11,5 @@ layout: default
     {{ content }}
   </div>
 </article>
+{% endif %}
+
