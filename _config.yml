@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
 title: "My page"
+
+exclude:
+  - README.md
+  
