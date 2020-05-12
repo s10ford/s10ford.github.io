@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "POST TITLE"
 date: 2020-05-12 
 categories: CATEGORY-1 CATEGORY-2
